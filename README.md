@@ -13,4 +13,7 @@ Below are the links of the csv data containing the information to perform EDA.
 
 The respective files are downloaded and imported using respective libraries for analysis and visualization.
 
-raw recipe data 
+raw recipe data https://raw-recipes-clean-upgrad.s3.amazonaws.com/RAW_recipes_cleaned.csv
+
+raw ratings data https://raw-interactions-upgrad.s3.amazonaws.com/RAW_interactions_cleaned.csv
+
